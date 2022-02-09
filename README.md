@@ -7,7 +7,7 @@
 - 🌈 I'm currently working at Lontarlab
 - ⚙️ I use daily: `.php`, `.dart`, `.html`, `.css`, `.scss`, `.js`
 - 🌱 Learning all about Flutter and Laravel
-- ⚡ Fun fact: I have a mood booster doll called "baobao"
+- ⚡ Fun fact: I'm a geprek chicken hunter
 - 📫 Reach me:
 
 [![Website Badge](https://img.shields.io/badge/-ihsanfrr.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ihsanfrr.github.io)](https://ihsanfrr.github.io)
