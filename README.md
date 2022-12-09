@@ -5,8 +5,8 @@
 ##### BIO
 
 - 🌈 I'm currently working at Lontarlab
-- ⚙️ I use daily: `.php`, `.dart`, `.html`, `.css`, `.scss`, `.js`
-- 🌱 Learning all about Flutter and Laravel
+- ⚙️ I use daily: `.dart`, `.js`, `.php`, `.html`, `.css`, `.scss`
+- 🌱 Learning all about Life
 - ⚡ Fun fact: I'm a geprek chicken hunter
 - 📫 Reach me:
 
