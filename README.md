@@ -7,7 +7,7 @@
 - 🌈 I'm currently working at Lontarlab
 - ⚙️ I use daily: `.dart`, `.js`, `.php`, `.html`, `.css`, `.scss`
 - 🌱 Learning all about Life
-- ⚡ Fun fact: I'm a geprek chicken hunter
+- ⚡ Fun fact: I'm a meatball hunter
 - 📫 Reach me:
 
 [![Website Badge](https://img.shields.io/badge/-ihsanfrr.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ihsanfrr.github.io)](https://ihsanfrr.github.io)
