@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Bandung, Indonesia.
+#### I'm Ihsan Fajar Ramadhan — a Full-Stack Developer based in Bandung, Indonesia 🇮🇩
 
-##### BIO
+I'm passionate about building scalable digital products, from frontend user experiences to backend architecture. Currently crafting software at **Lontarlab**, I thrive in environments where code meets creativity and impact.
 
-- 🌈 I'm currently working at Lontarlab
-- ⚙️ I use daily: `.dart`, `.js`, `.php`, `.html`, `.css`, `.scss`
-- 🌱 Learning all about Life
-- ⚡ Fun fact: I'm a meatball hunter
-- 📫 Reach me:
+---
 
-[![Website Badge](https://img.shields.io/badge/-ihsanfrr.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ihsanfrr.github.io)](https://ihsanfrr.github.io)
-[![Twitter Badge](https://img.shields.io/badge/-@ihsanfrr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ihsanfrr)](https://twitter.com/ihsanfrr)
+##### 📌 Currently
+
+- 🚀 Working on mobile and web-based projects at **Lontarlab**
+- 🌱 Learning about life, clean architecture, and better UI/UX practices
+- 📘 Writing cleaner code and trying not to break things 😅
+- ⚡ Fun fact: I’m a certified *meatball hunter* 🧆
+
+---
+
+##### 📫 Connect With Me
 [![Instagram Badge](https://img.shields.io/badge/-@ihsanfrr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ihsanfrr/)](https://instagram.com/ihsanfrr)
 [![Gmail Badge](https://img.shields.io/badge/-Ihsan.fajardan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ihsan.fajardan@gmail.com)](mailto:ihsan.fajardan@gmail.com)
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
